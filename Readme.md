@@ -24,3 +24,9 @@ personal_firewall/
 ├── requirements.txt # Required Python libraries
 └── Readme.md # Project overview and usage instructions
 ```
+
+## 🖼️ Screenshot
+
+### Firewall GUI & Blocked Access Demonstration
+
+![Firewall GUI](screenshots/GUIFirewall.png)
